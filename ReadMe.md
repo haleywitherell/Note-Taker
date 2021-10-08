@@ -7,7 +7,6 @@ See a short description of my project below.
 
 ## Installation Instructions
 
-Install inquirer, fs and jest.
 
 ## Contribution Guidelines
 
