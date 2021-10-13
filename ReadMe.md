@@ -4,20 +4,17 @@
 
 See a short description of my project below.
 
-
-## Installation Instructions
+I created the server side of a note taker app. When you click the deployed heroku link you will be able to interact with the app in the browser.
 
 
 ## Contribution Guidelines
 
 Haley Witherell
 
-## Test Instructions
 
+## Heroku Link
 
-## Walk Thru Video Link
-
-Click the link below to see the walk thru video for this project.
+https://note-taker-page1.herokuapp.com/ 
 
 ## Questions
 
